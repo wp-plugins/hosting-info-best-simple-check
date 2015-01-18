@@ -1,4 +1,4 @@
-=== Hosting Info - Best Simple Check ===
+=== Best Wordpress Hosting - Check ===
 Contributors: seo101
 Donate link: 
 Tags: hosting, php version, php info
@@ -12,7 +12,11 @@ Displays information on your WordPress hosting like mysql version and php versio
 
 == Description ==
 
-Displays information on your WordPress hosting like mysql version and php version information.
+Displays information on your WordPress hosting like mysql version and php version information. It's simple to install and useful to find for example information on the php parameters of your shared wordpress hosting.
+
+After installation you will find a new menu item in your settings menu, click it and all information will be displayed.
+
+For more information visit <a href="http://www.seo101.net/">seo101.net</a>
 
 
 == Installation ==

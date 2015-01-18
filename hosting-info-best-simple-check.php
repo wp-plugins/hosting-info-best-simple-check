@@ -1,8 +1,8 @@
 <?php
 /**
- Plugin Name: Hosting Info - Best Simple Check
+ Plugin Name: Best Wordpress Hosting - Check
  Plugin URI:
- Description: Displays information on your WordPress hosting
+ Description: Information on your WordPress hosting
  Version: 1.0
  Author: <a href="http://www.seo101.net">Seo101</a>
  */
